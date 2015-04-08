@@ -1,0 +1,6 @@
+Revision history for Perl extension Sort::Merge::Parallel.
+
+0.01  Mon Apr  6 17:19:52 2015
+	- original version; created by h2xs 1.23 with options
+		-A -n Sort::Merge::Parallel
+

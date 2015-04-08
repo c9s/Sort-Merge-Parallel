@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+Parallel.xs
+ppport.h
+README
+t/Sort-Merge-Parallel.t
+lib/Sort/Merge/Parallel.pm
